@@ -1,4 +1,25 @@
-<h1 align="center">👨‍💻 Desenvolvedor Júnior | 19 🚀 Explorando o universo do código 💻 Foco em React e TypeScript</h1>
+<h1 align="center">Victor Gomes</h1>
+<h3 align="center">Desenvolvedor Web & UI/UX — criando experiencias matematicamente precisas</h3>
+
+<p align="center">
+  <a href="https://www.victorgomes.me">
+    <img src="https://img.shields.io/badge/victorgomes.me-000000?style=for-the-badge&logo=googlechrome&logoColor=a3e635" alt="Portfolio — victorgomes.me" />
+  </a>
+  <a href="https://www.instagram.com/victorg.n7/">
+    <img src="https://img.shields.io/badge/@victorg.n7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:contato@victorgomes.me">
+    <img src="https://img.shields.io/badge/contato%40victorgomes.me-000000?style=for-the-badge&logo=gmail&logoColor=a3e635" alt="E-mail" />
+  </a>
+</p>
+
+<p align="center">
+  Cricao de sites, landing pages, e-commerce headless e plataformas multiview (Twitch/Kick)<br>
+  Bom Conselho, PE — atendendo todo o Brasil<br>
+  Graduando em Matematica aplicada ao front-end: algebra linear, trigonometria e WebGL
+</p>
+
+<p align="center">Foco em <b>Next.js</b>, <b>React</b> e <b>TypeScript</b> — sempre com performance e precisao visual.</p>
 
 ###
 
